@@ -1,5 +1,13 @@
 # YOLOv5 – Brain Tumor Detection (Google Colab Pipeline)
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Shaghayegh35/yolov5-brain-tumor-colab-pipeline/blob/main/colab_yolov5_tumor.ipynb)
+
+
+
+
+
 yolov5_tumor_segmentation/
 ├── train/
 │   ├── images/   # training images (.jpg/.png)
